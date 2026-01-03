@@ -1,7 +1,7 @@
 module IOSParser
   class << self
     def version
-      '0.9.0'
+      '0.9.1'
     end
   end
 end
